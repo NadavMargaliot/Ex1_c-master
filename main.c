@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include"NumClass.h"
-int main(void){
+void main(void){
     int a, b, i;
     scanf("%d %d", &a,&b);
   
@@ -32,6 +32,6 @@ int main(void){
    } 
 
    printf("\n");
-   return 0;
+//    return 0;
 
 }
